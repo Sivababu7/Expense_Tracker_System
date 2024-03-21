@@ -1,4 +1,4 @@
-# Expense_Tracker_System
+# Expense_Tracker_System with Data Structures and Algorithms using Java
 
 The Expense Tracker System is a Java-based application designed to help users manage their expenses effectively. It provides a simple and intuitive interface for tracking daily expenditures. Here are the key features:
 
